@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
-console.log(123)
+console.log(1)
 
 Vue.config.productionTip = false
 
